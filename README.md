@@ -3,7 +3,7 @@
 ## Week 1
   - [x] DQ 00: Introduction - Inital
   - [x] Dq 00: Introduction - Peer Response
-  - [ ] Week 00 Reading Github Skills
+  - [x] Week 00 Reading Github Skills
   - [ ] Week 01 - Reading/Videos
   - [ ] Week 01 - Reading Assignment
   - [ ] Doctest Tutorial
