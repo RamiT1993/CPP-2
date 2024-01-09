@@ -1,14 +1,15 @@
 # C++ Programming Course-2 All Assignments Checklist
 <br></br>
 ## Week 1
+  - [x] Week 00 Reading Github Skills
+  - [x] Week 01 - Reading
+  - [x] Week 01 - Videos 
   - [x] DQ 00: Introduction - Inital
   - [x] Dq 00: Introduction - Peer Response
-  - [x] Week 00 Reading Github Skills
-  - [x] Week 01 - Reading/Videos
-  - [ ] Week 01 - Reading Assignment
+  - [x] Week 01 - Reading Assignment
+  - [x] Github Assignment Photo Acceptance
+  - [x] Git and Github Tutorial - Extra Credit
   - [ ] Doctest Tutorial
-  - [ ] Github Assignment Photo Acceptance
-  - [ ] Git and Github Tutorial - Extra Credit
   - [ ] Week 01: Programming Assignment
 <br></br>
 ## Week 2
