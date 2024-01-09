@@ -4,7 +4,7 @@
   - [x] DQ 00: Introduction - Inital
   - [x] Dq 00: Introduction - Peer Response
   - [x] Week 00 Reading Github Skills
-  - [ ] Week 01 - Reading/Videos
+  - [x] Week 01 - Reading/Videos
   - [ ] Week 01 - Reading Assignment
   - [ ] Doctest Tutorial
   - [ ] Github Assignment Photo Acceptance
