@@ -10,7 +10,7 @@
   - [x] Github Assignment Photo Acceptance
   - [x] Git and Github Tutorial - Extra Credit
   - [x] Doctest Tutorial
-  - [ ] Week 01: Programming Assignment
+  - [x] Week 01: Programming Assignment
 <br></br>
 ## Week 2
 
