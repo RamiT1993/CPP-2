@@ -18,7 +18,7 @@
   - [x] Week 2 - Video JSON Objects
   - [x] Week 2 - JSON Crash Course
   - [x] Week 2 - Initial JSON Jobs DQ
-  - [ ] Week 2 - Reply Json Jobs DQ
+  - [x] Week 2 - Reply Json Jobs DQ
   - [ ] Week 2 - Programming Assignment Group Project (Multi-Week)
 
 <br></br>
