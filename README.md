@@ -13,6 +13,13 @@
   - [x] Week 01: Programming Assignment
 <br></br>
 ## Week 2
+  - [ ] Week 2 - Reading JSON
+  - [ ] Week 2 - Reading JSON for Beginners
+  - [ ] Week 2 - Video JSON Objects
+  - [ ] Week 2 - JSON Crash Course
+  - [ ] Week 2 - Initial JSON Jobs DQ
+  - [ ] Week 2 - Reply Json Jobs DQ
+  - [ ] Week 2 - Programming Assignment Group Project (Multi-Week)
 
 <br></br>
 ## Week 3
