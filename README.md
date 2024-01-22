@@ -19,10 +19,13 @@
   - [x] Week 2 - JSON Crash Course
   - [x] Week 2 - Initial JSON Jobs DQ
   - [x] Week 2 - Reply Json Jobs DQ
-  - [ ] Week 2 - Programming Assignment Group Project (Multi-Week)
+  - [x] Week 2 - Programming Assignment Group Project (Multi-Week)
 
 <br></br>
 ## Week 3
+- [ ] Week 3 - Reading Using Branching
+- [ ] Week 3 - Git Branching
+- [ ] Week 3 - Programming Assignment 3
 
 <br></br>
 ## Week 4
