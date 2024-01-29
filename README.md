@@ -29,6 +29,9 @@
 
 <br></br>
 ## Week 4
+- [ ] Re-read Chapters 1-10 in our textbook
+- [x] Group vs Individual Programming Assignments
+- [ ] Week 4 - Programming Assignment
 
 <br></br>
 ## Week 5
