@@ -23,9 +23,9 @@
 
 <br></br>
 ## Week 3
-- [ ] Week 3 - Reading Using Branching
-- [ ] Week 3 - Git Branching
-- [ ] Week 3 - Programming Assignment 3
+- [x] Week 3 - Reading Using Branching
+- [x] Week 3 - Git Branching
+- [x] Week 3 - Programming Assignment 3
 
 <br></br>
 ## Week 4
