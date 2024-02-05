@@ -34,6 +34,8 @@
 - [x] Week 4 - Programming Assignment
 
 <br></br>
+
+## Week 5
 - [ ] Describe the common components of the C++ Standard Template Library
 - [ ] Read Appendix H and write notes
 - [ ] C++ Maps Video Plus Notes
@@ -42,8 +44,6 @@
 - [x] DQ - Initial
 - [ ] DQ - Response
 - [ ] DQ - Group Programming Assignment 5
-## Week 5
-
 <br></br>
 ## Week 6
 
