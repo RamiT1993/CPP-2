@@ -36,13 +36,13 @@
 <br></br>
 
 ## Week 5
-- [ ] Describe the common components of the C++ Standard Template Library
-- [ ] Read Appendix H and write notes
-- [ ] C++ Maps Video Plus Notes
-- [ ] C++ Vectors Video Plus Notes
-- [ ] Demo Map /W Vector Notes
+- [x] Describe the common components of the C++ Standard Template Library
+- [x] Read Appendix H and write notes
+- [x] C++ Maps Video Plus Notes
+- [x] C++ Vectors Video Plus Notes
+- [x] Demo Map /W Vector Notes
 - [x] DQ - Initial
-- [ ] DQ - Response
+- [x] DQ - Response
 - [ ] DQ - Group Programming Assignment 5
 <br></br>
 ## Week 6
