@@ -46,15 +46,15 @@
 - [x] DQ - Group Programming Assignment 5
 <br></br>
 ## Week 6
-- [ ] Read Chapter 11 + Write Notes
-- [ ] Read SOLID principles of object-oriented programming + Write Notes
-- [ ] Read nlohmann JSON parser + Write notes
-- [ ] Read Adding class diagrams to visual studio + Write Notes
-- [ ] Read Chapter 11 PowerPoints + Write Notes
-- [ ] Watch Demo - Visual Studio Class Diagrams and the nlohmann Json Parse + Write Notes
-- [ ] Watch Demo - Github Group Projects + Write Notes
-- [ ] Watch Demo - Inheritance + Write Notes
-- [ ] Chapter 11 Quiz
+- [x] Read Chapter 11 + Write Notes
+- [x] Read SOLID principles of object-oriented programming + Write Notes
+- [x] Read nlohmann JSON parser + Write notes
+- [x] Read Adding class diagrams to visual studio + Write Notes
+- [x] Read Chapter 11 PowerPoints + Write Notes
+- [x] Watch Demo - Visual Studio Class Diagrams and the nlohmann Json Parse + Write Notes
+- [x] Watch Demo - Github Group Projects + Write Notes
+- [x] Watch Demo - Inheritance + Write Notes
+- [x] Chapter 11 Quiz
 - [ ] Programming Assignment #6
 <br></br>
 ## Week 7
