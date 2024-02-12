@@ -43,7 +43,7 @@
 - [x] Demo Map /W Vector Notes
 - [x] DQ - Initial
 - [x] DQ - Response
-- [ ] DQ - Group Programming Assignment 5
+- [x] DQ - Group Programming Assignment 5
 <br></br>
 ## Week 6
 
