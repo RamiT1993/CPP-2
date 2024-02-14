@@ -55,7 +55,7 @@
 - [x] Watch Demo - Github Group Projects + Write Notes
 - [x] Watch Demo - Inheritance + Write Notes
 - [x] Chapter 11 Quiz
-- [ ] Programming Assignment #6
+- [x] Programming Assignment #6
 <br></br>
 ## Week 7
 
