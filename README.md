@@ -58,6 +58,13 @@
 - [x] Programming Assignment #6
 <br></br>
 ## Week 7
+- [ ] Weekly Objectives - Ability to Describe Pointers, Virtual Functions, and Abstract Classes
+- [ ] Read and Take Notes on Chapter 12 - Pointers, Virtual, Abstract Classes
+- [ ] Read and Take Notes on Detecting Memory Leaks on Windows platforms
+- [ ] Read and Take Notes on Chapter 12 power points
+- [ ] Read and Take Notes on Virtual Functions Demo
+- [ ] Chapter 12 Quiz
+- [ ] Programming Assignment #7
 
 <br></br>
 ## Week 8
