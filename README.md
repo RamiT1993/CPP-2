@@ -68,6 +68,12 @@
 
 <br></br>
 ## Week 8
+- [ ] Weekly Objectives - Describe and Create overloaded operators in C++
+- [ ] Read and Take Notes on Chapter 13 - Overloaded Operatores
+- [ ] Read and Take Notes on Chapter 13 power points
+- [ ] Read and Take Notes on Chapter 13 On CodeBeauty Operator overloading beginner to advanced
+- [ ] Chapter 13 quiz
+- [ ] Programming Assignment 8 - Continuation of the music machine
 
 <br></br>
 ## Week 9
