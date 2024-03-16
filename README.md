@@ -77,17 +77,17 @@
 
 <br></br>
 ## Week 9
- - [ ] Reading and Writing Notes - Rest API
- - [ ] Reading and Writing Notes - Postman
- - [ ] Reading and Writing Notes - Fiddler
- - [ ] Reading and Writing Notes - Windows Classic Examples
- - [ ] Watching and Writing Notes - What is a Rest API - IBM
- - [ ] Watching and Writiing Notes - What is a Rest API
- - [ ] Watching and Writing Notes - Demo - HTTP APIs
- - [ ] Watching and Writing Notes - Demo - HTTP Client
+ - [x] Reading and Writing Notes - Rest API
+ - [x] Reading and Writing Notes - Postman
+ - [x] Reading and Writing Notes - Fiddler
+ - [x] Reading and Writing Notes - Windows Classic Examples
+ - [x] Watching and Writing Notes - What is a Rest API - IBM
+ - [x] Watching and Writiing Notes - What is a Rest API
+ - [x] Watching and Writing Notes - Demo - HTTP APIs
+ - [x] Watching and Writing Notes - Demo - HTTP Client
  - [x] Rest API Job Initial Due Wednesday
- - [ ] Rest API Response Due Friday
- - [ ] Programming Assignment # 9 Due Sunday
+ - [x] Rest API Response Due Friday
+ - [x] Programming Assignment # 9 Due Sunday
 
 <br></br>
 ## Week 10
