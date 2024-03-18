@@ -91,6 +91,17 @@
 
 <br></br>
 ## Week 10
+- [ ] Reading and Writing Notes on Chapter 14 - Exception Handling
+- [ ] Reading and Writing Notes on C++ Exception Faq
+- [ ] Reading and Writing Notes on C++ Exception List
+- [ ] Reading and Writing Notes on HTTP Message Request Message Format - 1
+- [ ] Reading and Writing Notes on HTTP Message Request Message Format - 2
+- [ ] Reading and Writing Notes on Chapter 14 Power Point
+- [ ] Watching and Writing Notes on HTTP Message Format
+- [ ] Watching and Writing Notes on Demo - Simple Server
+- [ ] Watching and Writing Notes on Postmans Beginners Course - API Testing
+- [ ] Chapter 14 Quiz
+- [ ] Programming Assignment # 10
 
 <br></br>
 ## Week 11
