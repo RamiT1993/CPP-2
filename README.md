@@ -98,10 +98,10 @@
 - [x] Reading and Writing Notes on HTTP Message Request Message Format - 2
 - [x] Reading and Writing Notes on Chapter 14 Power Point
 - [x] Watching and Writing Notes on HTTP Message Format
-- [ ] Watching and Writing Notes on Demo - Simple Server
-- [ ] Watching and Writing Notes on Postmans Beginners Course - API Testing
+- [x] Watching and Writing Notes on Demo - Simple Server
+- [x] Watching and Writing Notes on Postmans Beginners Course - API Testing
 - [x] Chapter 14 Quiz
-- [ ] Programming Assignment # 10
+- [x] Programming Assignment # 10
 
 <br></br>
 ## Week 11
