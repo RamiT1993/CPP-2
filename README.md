@@ -105,13 +105,13 @@
 
 <br></br>
 ## Week 11
-- [ ] Read and Write Notes on Chapter 15 - Recursion
-- [ ] Read and Write Notes - Boost Filesystem Tutorial
-- [ ] Read and Write Notes - Chapter #15 Powerpoint
-- [ ] Watch and Write Notes - Demo Recursion
-- [ ] Watch and Write Notes - STL File System
-- [ ] Watch and Write Notes - Demo SimpleServer with file system
-- [ ] Chapter #15 Quiz
+- [x] Read and Write Notes on Chapter 15 - Recursion
+- [x] Read and Write Notes - Boost Filesystem Tutorial
+- [x] Read and Write Notes - Chapter #15 Powerpoint
+- [x] Watch and Write Notes - Demo Recursion
+- [x] Watch and Write Notes - STL File System
+- [x] Watch and Write Notes - Demo SimpleServer with file system
+- [x] Chapter #15 Quiz
 - [ ] Programming Assignment #11
 
 <br></br>
